@@ -1,0 +1,35 @@
+{
+	"subject": "angielski",
+	"name": "Unit 4 - słownictwo",
+	"type": "writing",
+	"questions": [
+		{
+			"question_text": "kawiarnia",
+			"correct_answer": "cafe"
+		},
+		{
+			"question_text": "garaż",
+			"correct_answer": "garage"
+		},
+		{
+			"question_text": "biblioteka",
+			"correct_answer": "library"
+		},
+		{
+			"question_text": "park",
+			"correct_answer": "park"
+		},
+		{
+			"question_text": "szkoła",
+			"correct_answer": "school"
+		},
+		{
+			"question_text": "sklep",
+			"correct_answer": "shop"
+		},
+		{
+			"question_text": "kino",
+			"correct_answer": "cinema"
+		}
+	]
+}

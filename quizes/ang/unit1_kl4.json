@@ -1,0 +1,146 @@
+{
+	"name": "Unit 1",
+	"type": "writing",
+	"questions": [
+		{
+			"question_text": "książka",
+			"correct_answer": "book"
+		},
+		{
+			"question_text": "kalkulator",
+			"correct_answer": "calculator"
+		},
+		{
+			"question_text": "kredka",
+			"correct_answer": "crayon"
+		},
+		{
+			"question_text": "zeszyt",
+			"correct_answer": "notebook"
+		},
+		{
+			"question_text": "długopis",
+			"correct_answer": "pen"
+		},
+		{
+			"question_text": "ołówek",
+			"correct_answer": "pencil"
+		},
+		{
+			"question_text": "piórnik",
+			"correct_answer": "pencil case"
+		},
+		{
+			"question_text": "gumka",
+			"correct_answer": "rubber"
+		},
+		{
+			"question_text": "linijka",
+			"correct_answer": "ruler"
+		},
+		{
+			"question_text": "plecak szkolny",
+			"correct_answer": "school bag"
+		},
+		{
+			"question_text": "nożyczki",
+			"correct_answer": "scissors"
+		},
+		{
+			"question_text": "temperówka",
+			"correct_answer": "sharpener"
+		},
+		{
+			"question_text": "sztuka",
+			"correct_answer": "art"
+		},
+		{
+			"question_text": "język angielski",
+			"correct_answer": "English"
+		},
+		{
+			"question_text": "język niemiecki",
+			"correct_answer": "German"
+		},
+		{
+			"question_text": "historia",
+			"correct_answer": "history"
+		},
+		{
+			"question_text": "matematyka",
+			"correct_answer": "maths"
+		},
+		{
+			"question_text": "muzyka",
+			"correct_answer": "music"
+		},
+		{
+			"question_text": "wychowanie fizyczne (WF)",
+			"correct_answer": "PE"
+		},
+		{
+			"question_text": "przyroda",
+			"correct_answer": "science"
+		},
+		{
+			"question_text": "język hiszpański",
+			"correct_answer": "Spanish"
+		},
+		{
+			"question_text": "technika",
+			"correct_answer": "technology"
+		},
+		{
+			"question_text": "czerwony",
+			"correct_answer": "red"
+		},
+		{
+			"question_text": "pomarańczowy",
+			"correct_answer": "orange"
+		},
+		{
+			"question_text": "żółty",
+			"correct_answer": "yellow"
+		},
+		{
+			"question_text": "jasnozielony",
+			"correct_answer": "light green"
+		},
+		{
+			"question_text": "ciemnozielony",
+			"correct_answer": "dark green"
+		},
+		{
+			"question_text": "jasnoniebieski",
+			"correct_answer": "light blue"
+		},
+		{
+			"question_text": "ciemnoniebieski",
+			"correct_answer": "dark blue"
+		},
+		{
+			"question_text": "fioletowy",
+			"correct_answer": "purple"
+		},
+		{
+			"question_text": "czarny",
+			"correct_answer": "black"
+		},
+		{
+			"question_text": "biały",
+			"correct_answer": "white"
+		},
+		{
+			"question_text": "szary",
+			"correct_answer": "grey"
+		},
+		{
+			"question_text": "brązowy",
+			"correct_answer": "brown"
+		},
+		{
+			"question_text": "różowy",
+			"correct_answer": "pink"
+		}
+	]
+}
